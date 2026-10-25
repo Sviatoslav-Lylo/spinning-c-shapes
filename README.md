@@ -1,6 +1,6 @@
 # Spinning Donut and Trident
 
-A small C project that renders two animated ASCII-style terminal graphics in real time: a rotating 3D donut and a spinning trident. Both are built with pure C, math-based projection, lighting, and ANSI terminal control.
+A small C project that renders two animated ASCII-style terminal graphics in real time: a 3D donut (torus) and a trident. Both are built with pure C, math-based projection, lighting, and ANSI terminal control.
 
 ![Spinning trident animation](spinning_trident.gif)
 
